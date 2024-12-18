@@ -1,3 +1,4 @@
+//celsius and farenhite//
 #include<stdio.h>
     int main(){
 	float f,c;
