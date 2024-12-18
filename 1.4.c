@@ -1,3 +1,4 @@
+//deine the area and perimeter//
 #include<stdio.h>
 int main(){
 	int r;
