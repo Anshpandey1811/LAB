@@ -1,3 +1,4 @@
+//define the simple intrest//
 #include<stdio.h>
 int main(){
 	int si,t,r,p;
